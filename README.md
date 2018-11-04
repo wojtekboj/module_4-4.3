@@ -26,5 +26,3 @@ The following tools were used
 
 ## Working Page
 https://wojtekboj.github.io/module_4-4.3/index.html
-
-
