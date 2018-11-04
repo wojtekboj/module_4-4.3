@@ -12,6 +12,7 @@ Responsive Web Design
 Project is created with:
 * HTML5
 * CSS3
+* RWD
 * Fonts - Bootstrap
 
 ## Tools
